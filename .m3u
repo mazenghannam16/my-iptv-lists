@@ -1,0 +1,20 @@
+#EXTINF:-1 tvg-id="ALFAJER1-FHD" tvg-name="AL FAJER 1 FHD" tvg-logo="https://i.ibb.co/0cY46br/AL-FAJER-1.jpg" group-title="AL FAJER TV",AL FAJER 1 (FHD)
+https://cdnfest.com/ftv1-1080p-castx/rewind-20.m3u8|user-agent=Mejarx&referer=https://mejar-Server.site/&origin=https://mejar-Server.site/&tod-drm=true
+#EXTINF:-1 tvg-id="ALFAJER1-HD" tvg-name="AL FAJER 1 HD" tvg-logo="https://i.ibb.co/0cY46br/AL-FAJER-1.jpg" group-title="AL FAJER TV",AL FAJER 1 (HD)
+https://cdnfest.com/ftv1-720p-castx/rewind-20.m3u8|user-agent=Mejarx&referer=https://mejar-Server.site/&origin=https://mejar-Server.site/
+#EXTINF:-1 tvg-id="ALFAJER2-FHD" tvg-name="AL FAJER 2 FHD" tvg-logo="https://i.ibb.co/P4CR80X/AL-FAJER-2.jpg" group-title="AL FAJER TV",AL FAJER 2 (FHD)
+https://cdnfest.com/ftv2-1080p/playlist.m3u8|user-agent=Mejarx&referer=https://mejar-Server.site/&origin=https://mejar-Server.site/
+#EXTINF:-1 tvg-id="ALFAJER2-HD" tvg-name="AL FAJER 2 HD" tvg-logo="https://i.ibb.co/P4CR80X/AL-FAJER-2.jpg" group-title="AL FAJER TV",AL FAJER 2 (HD)
+https://cdnfest.com/ftv2-720p/playlist.m3u8|user-agent=Mejarx&referer=https://mejar-Server.site/&origin=https://mejar-Server.site/
+#EXTINF:-1 tvg-id="ALFAJER3-FHD" tvg-name="AL FAJER 3 FHD" tvg-logo="https://i.ibb.co/yXf7bTT/AL-FAJER-3.jpg" group-title="AL FAJER TV",AL FAJER 3 (FHD)
+https://cdnfest.com/ftv3-1080p/playlist.m3u8|user-agent=Mejarx&referer=https://mejar-Server.site/&origin=https://mejar-Server.site/
+#EXTINF:-1 tvg-id="ALFAJER3-HD" tvg-name="AL FAJER 3 HD" tvg-logo="https://i.ibb.co/yXf7bTT/AL-FAJER-3.jpg" group-title="AL FAJER TV",AL FAJER 3 (HD)
+https://cdnfest.com/ftv3-720p/playlist.m3u8|user-agent=Mejarx&referer=https://mejar-Server.site/&origin=https://mejar-Server.site/
+#EXTINF:-1 tvg-id="ALFAJER4-FHD" tvg-name="AL FAJER 4 FHD" tvg-logo="https://i.ibb.co/sFfdsqc/AL-FAJER-4.jpg" group-title="AL FAJER TV",AL FAJER 4 (FHD)
+https://cdnfest.com/ftv4-1080p/playlist.m3u8|user-agent=Mejarx&referer=https://mejar-Server.site/&origin=https://mejar-Server.site/
+#EXTINF:-1 tvg-id="ALFAJER4-HD" tvg-name="AL FAJER 4 HD" tvg-logo="https://i.ibb.co/sFfdsqc/AL-FAJER-4.jpg" group-title="AL FAJER TV",AL FAJER 4 (HD)
+https://cdnfest.com/ftv4-720p/playlist.m3u8|user-agent=Mejarx&referer=https://mejar-Server.site/&origin=https://mejar-Server.site/
+#EXTINF:-1 tvg-id="ALFAJER5-FHD" tvg-name="AL FAJER 5 FHD" tvg-logo="https://i.ibb.co/W6VV956/AL-FAJER-5.jpg" group-title="AL FAJER TV",AL FAJER 5 (FHD)
+https://cdnfest.com/ftv5-1080p/playlist.m3u8|user-agent=Mejarx&referer=https://mejar-Server.site/&origin=https://mejar-Server.site/
+#EXTINF:-1 tvg-id="ALFAJER5-HD" tvg-name="AL FAJER 5 HD" tvg-logo="https://i.ibb.co/W6VV956/AL-FAJER-5.jpg" group-title="AL FAJER TV",AL FAJER 5 (HD)
+https://cdnfest.com/ftv5-720p/playlist.m3u8|user-agent=Mejarx&referer=https://mejar-Server.site/&origin=https://mejar-Server.site/
