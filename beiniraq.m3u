@@ -1,0 +1,22 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="beIN_Sports_1" tvg-name="beIN 1 ضوئي" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS1_DIGITAL_Mono.png" group-title="beIN Sports (ضوئي)",beIN 1 ضوئي
+https://stream.supertv.gg:3001/supertv/sport/stv1/ch1/adaptive.m3u8
+
+#EXTINF:-1 tvg-id="beIN_Sports_2" tvg-name="beIN 2 ضوئي" tvg-logo="https://assets.bein.com/mena/sites/4/2021/02/beIN_SPORTS2_DIGITAL_Mono.png" group-title="beIN Sports (ضوئي)",beIN 2 ضوئي
+https://stream.supertv.gg:3001/supertv/sport/stv1/ch2/adaptive.m3u8
+
+#EXTINF:-1 tvg-id="beIN_Sports_3" tvg-name="beIN 3 ضوئي" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS3_DIGITAL_Mono.png" group-title="beIN Sports (ضوئي)",beIN 3 ضوئي
+https://stream.supertv.gg:3001/supertv/sport/stv1/ch3/adaptive.m3u8
+
+#EXTINF:-1 tvg-id="beIN_Sports_4" tvg-name="beIN 4 ضوئي" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS4_DIGITAL_Mono.png" group-title="beIN Sports (ضوئي)",beIN 4 ضوئي
+https://stream.supertv.gg:3001/supertv/sport/stv1/ch4/adaptive.m3u8
+
+#EXTINF:-1 tvg-id="beIN_Sports_5" tvg-name="beIN 5 ضوئي" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS5_DIGITAL_Mono.png" group-title="beIN Sports (ضوئي)",beIN 5 ضوئي
+https://stream.supertv.gg:3001/supertv/sport/stv1/ch5/adaptive.m3u8
+
+#EXTINF:-1 tvg-id="beIN_Sports_6" tvg-name="beIN 6 ضوئي" tvg-logo="https://assets.bein.com/mena/sites/4/2021/02/beIN_SPORTS6_DIGITAL_Mono.png" group-title="beIN Sports (ضوئي)",beIN 6 ضوئي
+https://stream.supertv.gg:3001/supertv/sport/stv1/ch6/adaptive.m3u8
+
+#EXTINF:-1 tvg-id="beIN_Sports_7" tvg-name="beIN 7 ضوئي" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS7_DIGITAL_Mono.png" group-title="beIN Sports (ضوئي)",beIN 7 ضوئي
+https://stream.supertv.gg:3001/supertv/sport/stv1/ch7/adaptive.m3u8
