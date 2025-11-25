@@ -1,0 +1,61 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://k.top4top.io/p_3381z7jut1.jpg", Real Madrid (EN)
+https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://k.top4top.io/p_3381z7jut1.jpg", Real Madrid (ES)
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlJZILcIe4-MRfc_hc9_pL69Dh24WphR8a_0n0gsjaQg&s=10", Duhok Sports
+https://karwan.tv/live/duhok-tv-sport-1.php
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPaDWn-Xr5XgBHrJA_7JRlGg5_hJIhcxH4epy_NcyHKw&s=10", TV 8
+https://tv8.daioncdn.net/tv8bucuk/tv8bucuk.m3u8?app=tv8bucuk_web&ce=3
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMrSheUWWQ2jeSjSBFeTTqe3EU9zE0T0YLGzFXnNJqmQ&s=10", NUBAR Sport
+http://stream.nubar.tv:1935/private/NUBARSport/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbh-h2RAxqUR--OXqLsmElk-ewZIzL_1ue6o8DHbkLVQ&s=10", A Sport
+https://www.giniko.com/xml/secure/plist.php?ch=390
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNA0U5DLmRsuvO3f_qRtFbMRs7Qf3frz4O25pxZaCplA&s=10", IRIB 3
+https://ss.90minlive.online/tv3/tv3/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT-27Mr6ooOUP0ifzHq8WXCtUhDE0_aOfJOi2eSp6ahw&s=10", Varzish TV
+https://ss.90minlive.online/live/abr_var/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMnznWuIcC6OZZ0o8JRWcabHGnkBr8eTGFpX-LcMmKOw&s=10", SportDigital
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/manifest/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/413e9d90-a69f-4c02-963d-6aca91619f32/0.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr7b0RSjZj1b2yU9kZsn3zvE2EzkZ2r9RbG514fU39KA&s", RTA Sport
+https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/03.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRl55wnIFFlprsSOA5Ibi5uJoW_R_lZsQ5KCoL6o9733A&s=10", NRT Sports
+https://karwan.tv/live/nrt-sport-1.php
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGrFP92FJCnwSGwoQp0O6A3zClAfxLF_9mQ4kZSYBrgg&s=10", TRT Sport
+https://www.giniko.com/xml/secure/plist.php?ch=194
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPjNW8nWJM_ged0Qqmb2BeWi10_F-c6dVbrf1OI1QrEQ&s=10", Tennis TV
+https://tennischannel-int-samsunguk.amagi.tv/playlist720_p.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsH8zoEI8anMW3e7iTcm5ZYpI7nZ6Rwu831Y7TMJz3gQ&s=10", TSN 1
+https://abkf7g7aaaaaaaamcmmhhhyli5fwh.otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/u142pfptsm/out/v1/1caa3b2dfa9e448d8f61209bdfc1acdc/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsH8zoEI8anMW3e7iTcm5ZYpI7nZ6Rwu831Y7TMJz3gQ&s=10", TSN 2
+https://abm5x5xaaaaaaaampie4zrlukq55o.otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/v5v9yfn62i/out/v1/0991e33d09da46b2857fcc845db95c40/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsH8zoEI8anMW3e7iTcm5ZYpI7nZ6Rwu831Y7TMJz3gQ&s=10", TSN 3
+https://abm5x5xaaaaaaaamfnzlkys25m7a5.otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/mrskysvotx/out/v1/ad58961bd8fd48d2944e461c034b8914/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsH8zoEI8anMW3e7iTcm5ZYpI7nZ6Rwu831Y7TMJz3gQ&s=10", TSN 4
+https://abm5x5xaaaaaaaampk3nj4fzz34qg.otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/irtfdsri14/out/v1/165128c314e944faa3d79e107974b323/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsH8zoEI8anMW3e7iTcm5ZYpI7nZ6Rwu831Y7TMJz3gQ&s=10", TSN 5
+https://abm5x5xaaaaaaaamjwfbpek7fak66.otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/mttgh1c4ei/out/v1/9cc664b146744e2ba23066aa048efbc5/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR95Sqv0fmV-gyHsSvkX_icG4cQUH1CwrnqThitt0-X0A&s=10", FOX Sport 1
+https://zekonew.newkso.ru/zeko/premium39/mono.m3u8
+
+#EXTINF:-1 tvg-logo="gg", MMN SPORT
+http://mmn.mypsx.net:1935/live/mmnhdsport/playlist.m3u8
