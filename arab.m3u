@@ -1,0 +1,55 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://www2.0zz0.com/2025/04/19/17/587458978.png", ON Sport 1
+https://cdnfest.com/ON-Sport-1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www2.0zz0.com/2025/04/19/17/587458978.png", ON Sport 2
+http://apk.arabic-ch.space/live/007000/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Alkass_Sports_logo_%28cropped%29.jpg", Al KASS 1
+https://liveeu-gcp.alkassdigital.net/alkass1-p/main.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Alkass_Sports_logo_%28cropped%29.jpg", Al KASS 2
+https://liveeu-gcp.alkassdigital.net/alkass2-p/main.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Alkass_Sports_logo_%28cropped%29.jpg", Al KASS 3
+https://liveeu-gcp.alkassdigital.net/alkass3-p/main.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Alkass_Sports_logo_%28cropped%29.jpg", Al KASS 4
+https://liveeu-gcp.alkassdigital.net/alkass4-p/main.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Alkass_Sports_logo_%28cropped%29.jpg", Al KASS 6
+https://liveeu-gcp.alkassdigital.net/alkass6-p/main.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Logo%2Barryadia%2Bmorocco.png/1200px-Logo%2Barryadia%2Bmorocco.png", Morocco Sport
+https://morocco.castxtv47.workers.dev/3.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/A3mKgS8.png", OMAN Sport
+https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/whpf7Kk.png", KSA Sport 1
+https://aloula.faulio.com/api/v1.1/channels/9/player
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/32ZwaW0.png", KSA Sport 2
+https://aloula.faulio.com/api/v1.1/channels/10/player
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Fa2DkKc.png", KSA Sport 3
+https://aloula.faulio.com/api/v1.1/channels/11/player
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7Po9yVnB4jfu54yWEp1AUSyfHCG8cBgxOKN_IEDqPTg&s", Dubai Sport 1
+https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7Po9yVnB4jfu54yWEp1AUSyfHCG8cBgxOKN_IEDqPTg&s", Dubai Sport 2 (Auto)
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8
+
+#EXTINF:-1, Dubai Sport 2 FHD
+https://dmitwlvvll.cdn.mangomolo.com:443/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
+
+#EXTINF:-1, Dubai Sport 2 HD
+https://dmitwlvvll.cdn.mangomolo.com:443/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1300000.m3u8
+
+#EXTINF:-1, Dubai Sport 2 LOW
+https://dmitwlvvll.cdn.mangomolo.com:443/dubaisportshd/smil:dubaisportshd.smil/chunklist_b300000.m3u8
+
+#EXTINF:-1 tvg-logo="https://f.top4top.io/p_3373hgwn31.jpg", الشارقة الرياضية
+https://svs.itworkscdn.net/smc4sportslive/smc4tv.smil/playlist.m3u8
