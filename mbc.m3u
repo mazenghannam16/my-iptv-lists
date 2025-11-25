@@ -1,0 +1,55 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png", MBC 1
+https://mbc1-enc.edgenextcdn.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/MBC2_Logo.png", MBC 2
+http://185.9.2.18/chid_375/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://b.top4top.io/p_3302aq8841.jpg", MBC 3
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-3-usa/5d58265a862a476dc7f97694addb5ded/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/MBC_4_TV_Channel_Logo.png/800px-MBC_4_TV_Channel_Logo.png", MBC 4
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-4/24f134f1cd63db9346439e96b86ca6ed/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/5_MBC.webp", MBC 5
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-5/ee6b000cee0629411b666ab26cb13e9b/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/1logo_mbc_action.png", MBC ACTION
+https://m3u.iranvids.com/mbc-action/output.m3u8
+
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-xdlWCS_9bjo/WxKH_A9QB4I/AAAAAAAATlM/7uO647kh7tACExdgVrp6VJg4CIYEhDO8gCLcBGAs/s1600/mbc_ae_drama_hd%2BFrequency.png", MBC DRAMA
+https://mbc1-enc.edgenextcdn.net/out/v1/b0b3a0e6750d4408bb86d703d5feffd1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQL58Io4DUyjKFuSGxT186DIGMqxpLmjUMC1GTsUMBdRg&s=10", MBC DRAMA +
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-plus-drama/e37251ec2aac8f6c98f75cd0fa37cd28/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/MBC_Masr_Logo.png/1200px-MBC_Masr_Logo.png", MBC MASR 1
+https://shls-masr-ak.akamaized.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQD7Ho_RxwaEhctFWMIJB5-d0Th0Lk-gBHzWXB4WDbyRA&s=10", MBC MASR 2
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-2/754931856515075b0aabf0e583495c68/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkwZ9yEJiw2wvgyzpz3H8JZwQM6tBrXMS0euriBtY0GQ&s=10", MBC IRAQ
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-iraq/e38c44b1b43474e1c39cb5b90203691e/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVAZK8er0OxCFFV8zqK3wsScE1Wc2GkUcvDY7_v3o7dQ&s=10", MBC Bollywood
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/MBC_Persia_Logo.png", MBC Persia
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-persia/818ee8e4b592dc497608f066d825bfb4/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/MBC_Max_logo.png", MBC MAX
+https://edgiolive.cdn.intigral-ott.net/MBMH/MBMH.isml/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://d.top4top.io/p_3302gyfhb1.jpg", MBC Plus Elife
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-2/51db9d7fa48a27d051f1eecb68069151/index.mpd
+
+#EXTINF:-1 tvg-logo="https://c.top4top.io/p_3302s47hx1.jpg", MBC Gaming
+https://uselector.cdn.intigral-ott.net/MBAH/MBAH.isml/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nRyfelnq-5_IoV_UG7pIi6AlGC5Uhw_oEjJvlreo8J=s900-c-k-c0x00ffffff-no-rj", MBC Variety +
+https://uselector.cdn.intigral-ott.net/MBV/MBV.isml/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4ltaxj23gZSZW6YFydS7ZdWqSTGxeUqypTjMWh95Yig&s=10", Drama Masr
+https://shls-live-enc.edgenextcdn.net/out/v1/08eca926a78a41339b8010c882410307/index.m3u8
