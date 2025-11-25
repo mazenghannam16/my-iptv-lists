@@ -1,0 +1,79 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQo6oIqwujEdEiag2q9bgzgjKouWvAJ25uq879taS3fOg&s=10", Al Jazeera Documentary
+https://live-hls-apps-ajd-fa.getaj.net/AJD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBa9UA-XFKL4jrTLm7k_qAFQXxSEqUumI7F3H6IPp24w&s=10", National Geographic
+https://vo-live.cdb.cdn.orange.com/Content/Channel/NationalGeographicHDChannel/HLS/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2NSHTTNPU_XUt_iCNhWiNatZe1czircDSxjepEXqPuQ&s=10", Al-Sharq Discovery
+https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo=".", World HD
+http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQg9FN2sp8zAzpi-iAk4uaFmQFmVYG5Gt-A-ZaK9N8Sjg&s=10", Docobox HD
+http://iptv.prosto.tv:7000/ch93/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTikYDcwk9HKcBWTd5YAVo6TsX-V3X_ER3djUqo4wqbsA&s=10", Love Nature
+https://m.youtube.com/@lovenature/live
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkNqHCyRRFivlf5JhPhPBSyRnGGNbxg7M-qA29el3Sbw&s=10", BBC Four
+https://streamer.nexyl.uk/48559ccd-6400-457d-8acc-06b9e24c2ed8.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cltzGd4.png", CS History
+https://live.cdn.joj.sk/live/andromeda/cs_history-720.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmUBQhpqn0Wr6WvxT1844NUFp9MAV2TTyOaI4pYHC1EQ&s=10", DW Arabic
+https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIeKbVYM2ebfsEy8UVFPN7QpAOze42DtKSuxUkWwgXpA&s", Discovery Relaxation
+https://m.youtube.com/@discoveryrelaxation3457/live
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTygkxoD3rus7UUw7I0YQ7rOBfi88gyWS41XY86hTi4Sg&s", Relaxing Nature
+https://m.youtube.com/@@animals-world/live
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ9IKTa9HWpDDk_2LIVKpQLTih-gh6bH5h3ibbNsmvag&s=10", NASA
+https://m.youtube.com/@NASA/live
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnPg8pgnoEKHOxKg2aRCbMyaX7cSoAbPFrvFQWWuCW0Q&s=10", Explore Live Nature
+https://m.youtube.com/@ExploreLiveNatureCams/live
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKxi5dowSx5nPQf3vv2IS_nJSTHbL8CnCqxUkNo9Lt2w&s=10", BBC Earth
+https://m.youtube.com/@bbcearth/live
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmjwfxVfDXFVUVhzUzaEfWqI_uw9xzP-BLJMnrxlqGXw&s=10", Discovery TV
+https://m.youtube.com/@@discovery/live
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR9sz9h2I54IBpi2B6zWdlWGIILyXsjop3iasq0eUsnw&s=10", Discovery Australia
+https://m.youtube.com/@DiscoveryAustralia/live
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRit0YHrlL4cxfCRngJPS6FoiZeil3NihjqTUidSYEBIA&s=10", Explore Africa
+https://m.youtube.com/@ExploreAfrica/live
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnAD4ejdNqEbA4pkwaoROtFCxvyEmdDi8IEApIgYp3Ag&s=10", The Nest TV
+https://fast-channels.sinclairstoryline.com/THENEST/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnj5wtk21BQ6EILydShGZ3HmiUlTE9EHrWEwtulkrg&s=10", Persiana Docs
+https://scihls.persiana.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr_wiklg3ponKeOIY0YmeEBAeSqHzCE33txyU2Rt6oBQ&s=10", NatGeo Wild
+https://akmrwb-live.cdn.intigral-ott.net/NHD/NHD.isml/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQC_jkRUcd3GAZ0Ud3ExRUs1QferrHwTI22fFFOD1Vj_A&s=10", LA 2
+https://d4g9wh8d4wiaw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-crbrakk0yedqb/La2ES.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTY0SZtPaukptE_DZfX-G41iGwMVq6ea6lyokS1aR_SCg&s=10", Gem Nature
+https://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://ca-rt.onetv.app/gemnature/index-0.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTE3zLsgJlZg05xZqFcxJpJaGJCa_qhJcx6FD1niKi2_g&s", GZT TV
+https://mn-nl.mncdn.com/gzttv/gzttv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKiNWANSWYZ9K0Ywfbna6YuczxX63Hl8IpgQIjDBLcmg&s=10", Fosion TV
+https://edge20.vedge.infomaniak.com/livecast/ik:fusiontv/manifest.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5OcvWTinb6w7L6DSI7JqlBSCDPSV_p4ic5c_AddrpOA&s", EPlanet TV
+https://eplhls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/SO05Jsh-ONrtRXa_5eOa15AzjrFCKNNPKlBMK1Prv_-meYXAV5F5eK15iJTGbY2ULBM", Fashion TV
+https://ftv1.b-cdn.net/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/manifest.m3u8
