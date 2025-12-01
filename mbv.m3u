@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="MBC 1" tvg-logo="https://shahid.mbc.net/mediaObject/cee00d24-d0ee-4382-ac72-b2de5dee0331?height=auto&width=288&croppingPoint=&version=1&type=webp" group-title="MBC Group",MBC 1
+https://shls-live-ak.akamaized.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MBC 4" tvg-logo="https://shahid.mbc.net/mediaObject/d280bcb0-2135-4919-af1a-f1c8c5fb99e3?height=auto&width=288&croppingPoint=&version=1&type=webp" group-title="MBC Group",MBC 4
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-4/24f134f1cd63db9346439e96b86ca6ed/index.m3u8?aws.manifestfilter=video_height:144-1080;video_codec:H264&video_height=144-1080&video_codec=H264
+#EXTINF:-1 tvg-id="" tvg-name="MBC 5" tvg-logo="https://shahid.mbc.net/mediaObject/79e74307-193a-4b28-9ccb-b618aae07962?height=auto&width=288&croppingPoint=&version=1&type=webp" group-title="MBC Group",MBC 5
+https://shd-mediacdn-live.edgenextcdn.net/live/bitmovin-mbc-5/ee6b000cee0629411b666ab26cb13e9b/index.m3u8?aws.manifestfilter=video_height:144-1080;video_codec:H264&video_height=144-1080&video_codec=H264
+#EXTINF:-1 tvg-id="" tvg-name="MBC Iraq" tvg-logo="https://shahid.mbc.net/mediaObject/27b098dd-07ae-4264-9ac2-47da7d720740?height=auto&width=288&croppingPoint=&version=1&type=webp" group-title="MBC Group",MBC Iraq
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-iraq/e38c44b1b43474e1c39cb5b90203691e/index.m3u8?aws.manifestfilter=video_height:144-1080;video_codec:H264&video_height=144-1080&video_codec=H264
+#EXTINF:-1 tvg-id="" tvg-name="MBC Masr" tvg-logo="https://shahid.mbc.net/mediaObject/40868a75-2b2c-47af-baf7-9167fce35a1d?height=auto&width=288&croppingPoint=&version=1&type=webp" group-title="MBC Group",MBC Masr
+https://shls-live-enc.edgenextcdn.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index.m3u8?aws.manifestfilter=video_height:144-1080;video_codec:H264&video_height=144-1080&video_codec=H264
+#EXTINF:-1 tvg-id="" tvg-name="MBC Drama+" tvg-logo="https://shahid.mbc.net/mediaObject/dd63048e-0b3b-48a2-b55c-77619b4d5cf6?height=auto&width=288&croppingPoint=&version=1&type=webp" group-title="MBC Group",MBC Drama+
+https://shd-mediacdn-live.edgenextcdn.net/live/bitmovin-mbc-plus-drama/e37251ec2aac8f6c98f75cd0fa37cd28/index.m3u8?aws.manifestfilter=video_height:144-1080;video_codec:H264&video_height=144-1080&video_codec=H264
+#EXTINF:-1 tvg-id="" tvg-name="MBC Drama" tvg-logo="https://shahid.mbc.net/mediaObject/7ccc7980-2151-441f-b862-494961bcf2d9?height=auto&width=288&croppingPoint=&version=1&type=webp" group-title="MBC Group",MBC Drama
+https://shls-live-enc.edgenextcdn.net/out/v1/b0b3a0e6750d4408bb86d703d5feffd1/index.m3u8?aws.manifestfilter=video_height:144-1080;video_codec:H264&video_height=144-1080&video_codec=H264
+#EXTINF:-1 tvg-id="" tvg-name="MBC Masr Drama" tvg-logo="https://shahid.mbc.net/mediaObject/82976f5e-20dd-4e81-8b4d-ee9bca41ca45?height=auto&width=288&croppingPoint=&version=1&type=webp" group-title="MBC Group",MBC Masr Drama
+https://shls-live-enc.edgenextcdn.net/out/v1/08eca926a78a41339b8010c882410307/index.m3u8?aws.manifestfilter=video_height:144-1080;video_codec:H264&video_height=144-1080&video_codec=H264
+#EXTINF:-1 tvg-id="" tvg-name="Bollywood" tvg-logo="https://shahid.mbc.net/mediaObject/799fb041-289c-4709-b009-bca666425ec8?height=auto&width=288&croppingPoint=&version=1&type=webp" group-title="MBC Group",Bollywood
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/index.m3u8?aws.manifestfilter=video_height:144-1080;video_codec:H264&video_height=144-1080&video_codec=H264
