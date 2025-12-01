@@ -1,0 +1,25 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Alwan 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8se4liBSs4gdwVlFalS5jrA2gyu3tli8mpZX8-DQ_A5-PsxV2CiEyrp3i&s=10" group-title="Alwan Sports",Alwan 1
+#EXTVLCOPT:http-user-agent=Mejar Server Local
+#EXTVLCOPT:http-referer=https://mejarserver.site
+https://cdnfest.com/Alwan-Sport-1-HD/index.fmp4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Alwan 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8se4liBSs4gdwVlFalS5jrA2gyu3tli8mpZX8-DQ_A5-PsxV2CiEyrp3i&s=10" group-title="Alwan Sports",Alwan 2
+#EXTVLCOPT:http-user-agent=Mejar Server Local
+#EXTVLCOPT:http-referer=https://mejarserver.site
+https://cdnfest.com/Alwan-Sport-2-HD/index.fmp4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Alwan 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8se4liBSs4gdwVlFalS5jrA2gyu3tli8mpZX8-DQ_A5-PsxV2CiEyrp3i&s=10" group-title="Alwan Sports",Alwan 3
+#EXTVLCOPT:http-user-agent=Mejar Server Local
+#EXTVLCOPT:http-referer=https://mejarserver.site
+https://cdnfest.com/Alwan-Sport-3-HD/index.fmp4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Alwan 4" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8se4liBSs4gdwVlFalS5jrA2gyu3tli8mpZX8-DQ_A5-PsxV2CiEyrp3i&s=10" group-title="Alwan Sports",Alwan 4
+#EXTVLCOPT:http-user-agent=Mejar Server Local
+#EXTVLCOPT:http-referer=https://mejarserver.site
+https://cdnfest.com/Alwan-Sport-4-HD/index.fmp4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Alwan 5" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8se4liBSs4gdwVlFalS5jrA2gyu3tli8mpZX8-DQ_A5-PsxV2CiEyrp3i&s=10" group-title="Alwan Sports",Alwan 5
+#EXTVLCOPT:http-user-agent=Mejar Server Local
+#EXTVLCOPT:http-referer=https://mejarserver.site
+https://cdnfest.com/Alwan-Sport-5-HD/index.fmp4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Alwan 6" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8se4liBSs4gdwVlFalS5jrA2gyu3tli8mpZX8-DQ_A5-PsxV2CiEyrp3i&s=10" group-title="Alwan Sports",Alwan 6
+#EXTVLCOPT:http-user-agent=Mejar Server Local
+#EXTVLCOPT:http-referer=https://mejarserver.site
+https://cdnfest.com/Alwan-Sport-6-HD/index.fmp4.m3u8
