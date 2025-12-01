@@ -1,103 +1,40 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="الكأس 1" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_liOz4wSiQryYNHlyL7msffUdwbjQmbmoPZyYqbql8q0g=s900-c-k-c0x00ffffff-no-rj" group-title="الكأس",الكأس 1
-#KODIPROP:inputstream.adaptive.license_type=
-#KODIPROP:inputstream.adaptive.license_key=
-#EXTHTTP:{"user-agent":"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36","referer":"https://shoof.alkass.net/","cookie":"PHPSESSID=c4835d1ac1b267940f974c52870528ed; Token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJuYW1laWQiOiI2MzU1MTYiLCJuYmYiOjE3MzQ4NzUzNzEsImV4cCI6MTczNzQ2NzM3MSwiaWF0IjoxNzM0ODc1MzcxLCJpc3MiOiJodHRwOi8vYWxrYXNzLm5ldCIsImF1ZCI6Imh0dHA6Ly9hbGthc3MubmV0In0.TryakGeaaffy0eCPVA3isXyzZCvd8RUVwtD1Xoo64O0; _ga=GA1.1.750274817.1734875431; muxData=mux_viewer_id=dd2da30c-9749-44e1-b833-f6eb4e1f82ff&msn=0.676183777017507&sid=dfbb56c2-aee7-4219-84d0-7e17af6e37ec&sst=1734875430656&sex=1734877156923; _ga_1K0PGGT9YX=GS1.1.1734875430.1.1.1734875656.0.0.0|find=m3u8","Referer":"https://shoof.alkass.net/","User-Agent":"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36"}
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_liOz4wSiQryYNHlyL7msffUdwbjQmbmoPZyYqbql8q0g=s900-c-k-c0x00ffffff-no-rj",الكأس 1
 https://shoof.alkass.net/live?ch=one
-#EXTINF:-1 tvg-id="الكأس 2" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_liOz4wSiQryYNHlyL7msffUdwbjQmbmoPZyYqbql8q0g=s900-c-k-c0x00ffffff-no-rj" group-title="الكأس",الكأس 2
-#KODIPROP:inputstream.adaptive.license_type=
-#KODIPROP:inputstream.adaptive.license_key=
-#EXTHTTP:{"user-agent":"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36","referer":"https://shoof.alkass.net/","cookie":"PHPSESSID=c4835d1ac1b267940f974c52870528ed; Token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJuYW1laWQiOiI2MzU1MTYiLCJuYmYiOjE3MzQ4NzUzNzEsImV4cCI6MTczNzQ2NzM3MSwiaWF0IjoxNzM0ODc1MzcxLCJpc3MiOiJodHRwOi8vYWxrYXNzLm5ldCIsImF1ZCI6Imh0dHA6Ly9hbGthc3MubmV0In0.TryakGeaaffy0eCPVA3isXyzZCvd8RUVwtD1Xoo64O0; _ga_1K0PGGT9YX=GS1.1.1734875430.1.1.1734875680.0.0.0; _ga=GA1.2.750274817.1734875431; _gid=GA1.2.1437012463.1734875682; muxData=mux_viewer_id=dd2da30c-9749-44e1-b833-f6eb4e1f82ff&msn=0.676183777017507&sid=dfbb56c2-aee7-4219-84d0-7e17af6e37ec&sst=1734875430656&sex=1734877188147|find=m3u8","Referer":"https://shoof.alkass.net/","User-Agent":"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36"}
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_liOz4wSiQryYNHlyL7msffUdwbjQmbmoPZyYqbql8q0g=s900-c-k-c0x00ffffff-no-rj",الكأس 2
 https://shoof.alkass.net/live?ch=two
-#EXTINF:-1 tvg-id="الكأس 3" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_liOz4wSiQryYNHlyL7msffUdwbjQmbmoPZyYqbql8q0g=s900-c-k-c0x00ffffff-no-rj" group-title="الكأس",الكأس 3
-#KODIPROP:inputstream.adaptive.license_type=
-#KODIPROP:inputstream.adaptive.license_key=
-#EXTHTTP:{"user-agent":"Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRhls Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Mobile Safari/537.36A58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36","referer":"https://shoof.alkass.net/","cookie":"PHPSESSID=c4835d1ac1b267940f974c52870528ed; Token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJuYW1laWQiOiI2MzU1MTYiLCJuYmYiOjE3MzQ4NzUzNzEsImV4cCI6MTczNzQ2NzM3MSwiaWF0IjoxNzM0ODc1MzcxLCJpc3MiOiJodHRwOi8vYWxrYXNzLm5ldCIsImF1ZCI6Imh0dHA6Ly9hbGthc3MubmV0In0.TryakGeaaffy0eCPVA3isXyzZCvd8RUVwtD1Xoo64O0; _gid=GA1.2.1437012463.1734875682; _ga_1K0PGGT9YX=GS1.1.1734875430.1.1.1734876968.0.0.0; _ga=GA1.2.750274817.1734875431; muxData=mux_viewer_id=dd2da30c-9749-44e1-b833-f6eb4e1f82ff&msn=0.676183777017507&sid=dfbb56c2-aee7-4219-84d0-7e17af6e37ec&sst=1734875430656&sex=1734878957915|find=m3u8","Referer":"https://shoof.alkass.net/","User-Agent":"Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRhls Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Mobile Safari/537.36A58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36"}
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_liOz4wSiQryYNHlyL7msffUdwbjQmbmoPZyYqbql8q0g=s900-c-k-c0x00ffffff-no-rj",الكأس 3
 https://shoof.alkass.net/live?ch=three
-#EXTINF:-1 tvg-id="الكأس 4" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_liOz4wSiQryYNHlyL7msffUdwbjQmbmoPZyYqbql8q0g=s900-c-k-c0x00ffffff-no-rj" group-title="الكأس",الكأس 4
-#KODIPROP:inputstream.adaptive.license_type=
-#KODIPROP:inputstream.adaptive.license_key=
-#EXTHTTP:{"user-agent":"Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRhls Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Mobile Safari/537.36A58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36","referer":"https://shoof.alkass.net/","cookie":"PHPSESSID=c4835d1ac1b267940f974c52870528ed; Token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJuYW1laWQiOiI2MzU1MTYiLCJuYmYiOjE3MzQ4NzUzNzEsImV4cCI6MTczNzQ2NzM3MSwiaWF0IjoxNzM0ODc1MzcxLCJpc3MiOiJodHRwOi8vYWxrYXNzLm5ldCIsImF1ZCI6Imh0dHA6Ly9hbGthc3MubmV0In0.TryakGeaaffy0eCPVA3isXyzZCvd8RUVwtD1Xoo64O0; _gid=GA1.2.1437012463.1734875682; _gat_gtag_UA_8775715_1=1; _ga_1K0PGGT9YX=GS1.1.1734875430.1.1.1734877461.0.0.0; _ga=GA1.1.750274817.1734875431; muxData=mux_viewer_id=dd2da30c-9749-44e1-b833-f6eb4e1f82ff&msn=0.676183777017507&sid=dfbb56c2-aee7-4219-84d0-7e17af6e37ec&sst=1734875430656&sex=1734878983561|find=m3u8","Referer":"https://shoof.alkass.net/","User-Agent":"Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRhls Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Mobile Safari/537.36A58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36"}
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_liOz4wSiQryYNHlyL7msffUdwbjQmbmoPZyYqbql8q0g=s900-c-k-c0x00ffffff-no-rj",الكأس 4
 https://shoof.alkass.net/live?ch=four
-#EXTINF:-1 tvg-id="الكأس 5" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_liOz4wSiQryYNHlyL7msffUdwbjQmbmoPZyYqbql8q0g=s900-c-k-c0x00ffffff-no-rj" group-title="الكأس",الكأس 5
-#KODIPROP:inputstream.adaptive.license_type=
-#KODIPROP:inputstream.adaptive.license_key=
-#EXTHTTP:{"user-agent":"Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRhls Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Mobile Safari/537.36A58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36","referer":"https://shoof.alkass.net/","cookie":"PHPSESSID=c4835d1ac1b267940f974c52870528ed; Token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJuYW1laWQiOiI2MzU1MTYiLCJuYmYiOjE3MzQ4NzUzNzEsImV4cCI6MTczNzQ2NzM3MSwiaWF0IjoxNzM0ODc1MzcxLCJpc3MiOiJodHRwOi8vYWxrYXNzLm5ldCIsImF1ZCI6Imh0dHA6Ly9hbGthc3MubmV0In0.TryakGeaaffy0eCPVA3isXyzZCvd8RUVwtD1Xoo64O0; _gid=GA1.2.1437012463.1734875682; _gat_gtag_UA_8775715_1=1; _ga_1K0PGGT9YX=GS1.1.1734875430.1.1.1734877487.0.0.0; _ga=GA1.1.750274817.1734875431; muxData=mux_viewer_id=dd2da30c-9749-44e1-b833-f6eb4e1f82ff&msn=0.676183777017507&sid=dfbb56c2-aee7-4219-84d0-7e17af6e37ec&sst=1734875430656&sex=1734878997564|find=m3u8","Referer":"https://shoof.alkass.net/","User-Agent":"Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRhls Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Mobile Safari/537.36A58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36"}
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_liOz4wSiQryYNHlyL7msffUdwbjQmbmoPZyYqbql8q0g=s900-c-k-c0x00ffffff-no-rj",الكأس 5
 https://shoof.alkass.net/live?ch=five
-#EXTINF:-1 tvg-id="دبي الرياضية 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7Po9yVnB4jfu54yWEp1AUSyfHCG8cBgxOKN_IEDqPTg&s" group-title="دبي الرياضية",دبي الرياضية 1
-#KODIPROP:inputstream.adaptive.license_type=
-#KODIPROP:inputstream.adaptive.license_key=
-#EXTHTTP:{"user-agent":"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36","referer":"https://player.mangomolo.com/v1/live?id=NzE=&channelid=MjM=&countries=Q0M=&w=100%25&h=100%25&filter=DENY&signature=b8eadb483fc9abaf1f4625f3041e23d2&player_profile=MTMz&vast=true&app_id=12&base_url=aHR0cHM6Ly93d3cuZHViYWlzcG9ydHMuYWUvY29udGVudC9kdWJhaXNwb3J0cy9saXZlc3RyZWFtaW5nL2NoYW5uZWwtMS5odG1s&ppid=hlicaAtRQRx1727429627872&novatiq_sgmnt_id=","origin":"https://player.mangomolo.com","Referer":"https://player.mangomolo.com/v1/live?id=NzE=&channelid=MjM=&countries=Q0M=&w=100%25&h=100%25&filter=DENY&signature=b8eadb483fc9abaf1f4625f3041e23d2&player_profile=MTMz&vast=true&app_id=12&base_url=aHR0cHM6Ly93d3cuZHViYWlzcG9ydHMuYWUvY29udGVudC9kdWJhaXNwb3J0cy9saXZlc3RyZWFtaW5nL2NoYW5uZWwtMS5odG1s&ppid=hlicaAtRQRx1727429627872&novatiq_sgmnt_id=","User-Agent":"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36"}
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7Po9yVnB4jfu54yWEp1AUSyfHCG8cBgxOKN_IEDqPTg&s",دبي الرياضية 1
 https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="دبي الرياضية 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7Po9yVnB4jfu54yWEp1AUSyfHCG8cBgxOKN_IEDqPTg&s" group-title="دبي الرياضية",دبي الرياضية 2
-#KODIPROP:inputstream.adaptive.license_type=
-#KODIPROP:inputstream.adaptive.license_key=
-#EXTHTTP:{"user-agent":"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Mobile Safari/537.36","Referer":"","User-Agent":"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Mobile Safari/537.36"}
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7Po9yVnB4jfu54yWEp1AUSyfHCG8cBgxOKN_IEDqPTg&s",دبي الرياضية 2
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8
-#EXTINF:-1 tvg-id="الكويت 1" tvg-logo="https://i.imgur.com/E2NC3n6.png" group-title="الكويت",الكويت 1
-#KODIPROP:inputstream.adaptive.license_type=
-#KODIPROP:inputstream.adaptive.license_key=
-#EXTHTTP:{"Referer":"","User-Agent":""}
+#EXTINF:-1 tvg-logo="https://i.imgur.com/E2NC3n6.png",الكويت 1
 https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="الكويت 2" tvg-logo="https://i.imgur.com/YKFX6zy.png" group-title="الكويت",الكويت 2
-#KODIPROP:inputstream.adaptive.license_type=
-#KODIPROP:inputstream.adaptive.license_key=
-#EXTHTTP:{"Referer":"","User-Agent":""}
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YKFX6zy.png",الكويت 2
 https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="دبي الرياضية 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7Po9yVnB4jfu54yWEp1AUSyfHCG8cBgxOKN_IEDqPTg&s" group-title="دبي الرياضية",دبي الرياضية 3
-#KODIPROP:inputstream.adaptive.license_type=
-#KODIPROP:inputstream.adaptive.license_key=
-#EXTHTTP:{"Referer":"","User-Agent":""}
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7Po9yVnB4jfu54yWEp1AUSyfHCG8cBgxOKN_IEDqPTg&s",دبي الرياضية 3
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="الكأس 6" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_liOz4wSiQryYNHlyL7msffUdwbjQmbmoPZyYqbql8q0g=s900-c-k-c0x00ffffff-no-rj" group-title="الكأس",الكأس 6
-#KODIPROP:inputstream.adaptive.license_type=
-#KODIPROP:inputstream.adaptive.license_key=
-#EXTHTTP:{"user-agent":"Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRhls Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Mobile Safari/537.36A58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36","referer":"https://shoof.alkass.net/","cookie":"PHPSESSID=c4835d1ac1b267940f974c52870528ed; Token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJuYW1laWQiOiI2MzU1MTYiLCJuYmYiOjE3MzQ4NzUzNzEsImV4cCI6MTczNzQ2NzM3MSwiaWF0IjoxNzM0ODc1MzcxLCJpc3MiOiJodHRwOi8vYWxrYXNzLm5ldCIsImF1ZCI6Imh0dHA6Ly9hbGthc3MubmV0In0.TryakGeaaffy0eCPVA3isXyzZCvd8RUVwtD1Xoo64O0; _ga=GA1.1.750274817.1734875431; muxData=mux_viewer_id=dd2da30c-9749-44e1-b833-f6eb4e1f82ff&msn=0.676183777017507&sid=dfbb56c2-aee7-4219-84d0-7e17af6e37ec&sst=1734875430656&sex=1734877156923; _ga_1K0PGGT9YX=GS1.1.1734875430.1.1.1734875656.0.0.0|find=m3u8","Referer":"https://shoof.alkass.net/","User-Agent":"Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRhls Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Mobile Safari/537.36A58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36"}
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_liOz4wSiQryYNHlyL7msffUdwbjQmbmoPZyYqbql8q0g=s900-c-k-c0x00ffffff-no-rj",الكأس 6
 https://shoof.alkass.net/live?ch=six
-#EXTINF:-1 tvg-id="الكأس 7" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_liOz4wSiQryYNHlyL7msffUdwbjQmbmoPZyYqbql8q0g=s900-c-k-c0x00ffffff-no-rj" group-title="الكأس",الكأس 7
-#KODIPROP:inputstream.adaptive.license_type=
-#KODIPROP:inputstream.adaptive.license_key=
-#EXTHTTP:{"user-agent":"Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRhls Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Mobile Safari/537.36A58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36","referer":"https://shoof.alkass.net/","cookie":"PHPSESSID=c4835d1ac1b267940f974c52870528ed; Token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJuYW1laWQiOiI2MzU1MTYiLCJuYmYiOjE3MzQ4NzUzNzEsImV4cCI6MTczNzQ2NzM3MSwiaWF0IjoxNzM0ODc1MzcxLCJpc3MiOiJodHRwOi8vYWxrYXNzLm5ldCIsImF1ZCI6Imh0dHA6Ly9hbGthc3MubmV0In0.TryakGeaaffy0eCPVA3isXyzZCvd8RUVwtD1Xoo64O0; _ga=GA1.1.750274817.1734875431; muxData=mux_viewer_id=dd2da30c-9749-44e1-b833-f6eb4e1f82ff&msn=0.676183777017507&sid=dfbb56c2-aee7-4219-84d0-7e17af6e37ec&sst=1734875430656&sex=1734877156923; _ga_1K0PGGT9YX=GS1.1.1734875430.1.1.1734875656.0.0.0|find=m3u8","Referer":"https://shoof.alkass.net/","User-Agent":"Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRhls Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Mobile Safari/537.36A58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36"}
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_liOz4wSiQryYNHlyL7msffUdwbjQmbmoPZyYqbql8q0g=s900-c-k-c0x00ffffff-no-rj",الكأس 7
 https://shoof.alkass.net/live?ch=seven
-#EXTINF:-1 tvg-id="الكأس 8" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_liOz4wSiQryYNHlyL7msffUdwbjQmbmoPZyYqbql8q0g=s900-c-k-c0x00ffffff-no-rj" group-title="الكأس",الكأس 8
-#KODIPROP:inputstream.adaptive.license_type=
-#KODIPROP:inputstream.adaptive.license_key=
-#EXTHTTP:{"user-agent":"Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRhls Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Mobile Safari/537.36A58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36","referer":"https://shoof.alkass.net/","cookie":"PHPSESSID=c4835d1ac1b267940f974c52870528ed; Token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJuYW1laWQiOiI2MzU1MTYiLCJuYmYiOjE3MzQ4NzUzNzEsImV4cCI6MTczNzQ2NzM3MSwiaWF0IjoxNzM0ODc1MzcxLCJpc3MiOiJodHRwOi8vYWxrYXNzLm5ldCIsImF1ZCI6Imh0dHA6Ly9hbGthc3MubmV0In0.TryakGeaaffy0eCPVA3isXyzZCvd8RUVwtD1Xoo64O0; _ga=GA1.1.750274817.1734875431; muxData=mux_viewer_id=dd2da30c-9749-44e1-b833-f6eb4e1f82ff&msn=0.676183777017507&sid=dfbb56c2-aee7-4219-84d0-7e17af6e37ec&sst=1734875430656&sex=1734877156923; _ga_1K0PGGT9YX=GS1.1.1734875430.1.1.1734875656.0.0.0|find=m3u8","Referer":"https://shoof.alkass.net/","User-Agent":"Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRhls Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Mobile Safari/537.36A58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36"}
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_liOz4wSiQryYNHlyL7msffUdwbjQmbmoPZyYqbql8q0g=s900-c-k-c0x00ffffff-no-rj",الكأس 8
 https://shoof.alkass.net/live?ch=eight
-#EXTINF:-1 tvg-id="الكأس 9" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_liOz4wSiQryYNHlyL7msffUdwbjQmbmoPZyYqbql8q0g=s900-c-k-c0x00ffffff-no-rj" group-title="الكأس",الكأس 9
-#KODIPROP:inputstream.adaptive.license_type=
-#KODIPROP:inputstream.adaptive.license_key=
-#EXTHTTP:{"user-agent":"Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRhls Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Mobile Safari/537.36A58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36","referer":"https://shoof.alkass.net/","cookie":"PHPSESSID=c4835d1ac1b267940f974c52870528ed; Token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJuYW1laWQiOiI2MzU1MTYiLCJuYmYiOjE3MzQ4NzUzNzEsImV4cCI6MTczNzQ2NzM3MSwiaWF0IjoxNzM0ODc1MzcxLCJpc3MiOiJodHRwOi8vYWxrYXNzLm5ldCIsImF1ZCI6Imh0dHA6Ly9hbGthc3MubmV0In0.TryakGeaaffy0eCPVA3isXyzZCvd8RUVwtD1Xoo64O0; _ga=GA1.1.750274817.1734875431; muxData=mux_viewer_id=dd2da30c-9749-44e1-b833-f6eb4e1f82ff&msn=0.676183777017507&sid=dfbb56c2-aee7-4219-84d0-7e17af6e37ec&sst=1734875430656&sex=1734877156923; _ga_1K0PGGT9YX=GS1.1.1734875430.1.1.1734875656.0.0.0|find=m3u8","Referer":"https://shoof.alkass.net/","User-Agent":"Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRhls Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Mobile Safari/537.36A58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36"}
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_liOz4wSiQryYNHlyL7msffUdwbjQmbmoPZyYqbql8q0g=s900-c-k-c0x00ffffff-no-rj",الكأس 9
 https://shoof.alkass.net/live?ch=nine
-#EXTINF:-1 tvg-id="أبو ظبي 1" tvg-logo="https://yt3.googleusercontent.com/hHBhwcoCzaf557Ir6wBg5v5a2UCgCShrU_2ul7c0mSvc7zenGz5WQEe5MTSHFQdrTftgZ1hp5w=s900-c-k-c0x00ffffff-no-rj" group-title="أبو ظبي",أبو ظبي 1
-#KODIPROP:inputstream.adaptive.license_type=
-#KODIPROP:inputstream.adaptive.license_key=
-#EXTHTTP:{"Referer":"","User-Agent":""}
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/hHBhwcoCzaf557Ir6wBg5v5a2UCgCShrU_2ul7c0mSvc7zenGz5WQEe5MTSHFQdrTftgZ1hp5w=s900-c-k-c0x00ffffff-no-rj",أبو ظبي 1
 https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/abudhabi_sports_1/abudhabi_sports_1_hls_nd/index.m3u8
-#EXTINF:-1 tvg-id="أبو ظبي 2" tvg-logo="https://yt3.googleusercontent.com/hHBhwcoCzaf557Ir6wBg5v5a2UCgCShrU_2ul7c0mSvc7zenGz5WQEe5MTSHFQdrTftgZ1hp5w=s900-c-k-c0x00ffffff-no-rj" group-title="أبو ظبي",أبو ظبي 2
-#KODIPROP:inputstream.adaptive.license_type=
-#KODIPROP:inputstream.adaptive.license_key=
-#EXTHTTP:{"Referer":"","User-Agent":""}
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/hHBhwcoCzaf557Ir6wBg5v5a2UCgCShrU_2ul7c0mSvc7zenGz5WQEe5MTSHFQdrTftgZ1hp5w=s900-c-k-c0x00ffffff-no-rj",أبو ظبي 2
 https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/abudhabi_sports_2/abudhabi_sports_2_hls_nd/index.m3u8
-#EXTINF:-1 tvg-id="Extra 1" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS_XTRA1_Digital_Mono.png" group-title="beIN",Extra 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6cc4dd3a5497310ba2e34ceeacd1c19b:e9c5d24ea414d0a2a7100fc1fc36a387
-#EXTHTTP:{"user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0","referer":"https://www.tod.tv/","tod-drm":"true","Referer":"https://www.tod.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0"}
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS_XTRA1_Digital_Mono.png",Extra 1
 https://todtv-live-spo-prod.akamaized.net/Content/Channel/svc-spo-hd-17-dt/DASH/hdntl=exp=1764608852~acl=*%2fContent%2fChannel%2fsvc-spo-hd-17-dt%2fDASH%2f*~id=95dc16a7-fea7-4d9d-8df9-8b11f1add3f7~data=hdntl,aXA9ODMuMjQ0Ljc3Ljcz~hmac=a1beec6e28251bb4b50946addb45bc9a34d44f729a4a9337f539835cdc2b2327/playlist_ha.mpd
-#EXTINF:-1 tvg-id="Extra 2" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS_XTRA2_Digital_Mono.png" group-title="beIN",Extra 2
-#KODIPROP:inputstream.adaptive.license_type=
-#KODIPROP:inputstream.adaptive.license_key=
-#EXTHTTP:{"Referer":"","User-Agent":""}
-#EXTINF:-1 tvg-id="Extra 3" tvg-logo="https://assets.bein.com/mena/sites/3/2023/09/logos-_beINSPORTSXTRA3.png" group-title="beIN",Extra 3
-#KODIPROP:inputstream.adaptive.license_type=
-#KODIPROP:inputstream.adaptive.license_key=
-#EXTHTTP:{"Referer":"","User-Agent":""}
-#EXTINF:-1 tvg-id="Extra 4" tvg-logo="https://assets.bein.com/mena/sites/3/2025/01/beIN_SPORTS_XTRA_04_bein.com_.png" group-title="beIN",Extra 4
-#KODIPROP:inputstream.adaptive.license_type=
-#KODIPROP:inputstream.adaptive.license_key=
-#EXTHTTP:{"Referer":"","User-Agent":""}
-#EXTINF:-1 tvg-id="beIN SPORTS" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/bein_SPORTS_FTA_DIGITAL_Mono.png" group-title="beIN",beIN SPORTS
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=dece176768f639bcbaf97ebca9c74164:dd5f1f0bfe87b23eb94160af51671670
-#EXTHTTP:{"user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0","referer":"https://www.tod.tv/","tod-drm":"true","Referer":"https://www.tod.tv/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0"}
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS_XTRA2_Digital_Mono.png",Extra 2
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2023/09/logos-_beINSPORTSXTRA3.png",Extra 3
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2025/01/beIN_SPORTS_XTRA_04_bein.com_.png",Extra 4
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/bein_SPORTS_FTA_DIGITAL_Mono.png",beIN SPORTS
 https://todtv-live-spo-prod.akamaized.net/Content/Channel/svc-spo-hd-38-dt/DASH/hdntl=exp=1764610162~acl=*%2fContent%2fChannel%2fsvc-spo-hd-38-dt%2fDASH%2f*~id=95dc16a7-fea7-4d9d-8df9-8b11f1add3f7~data=hdntl,aXA9ODMuMjQ0Ljc3Ljcz~hmac=3cb05e5066414ca1aa1cd685753c4fd3128b610f02bae7f7780ed4005af02b70/playlist_ha.mpd
