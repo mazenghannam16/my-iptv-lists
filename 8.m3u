@@ -1,16 +1,29 @@
 #EXTM3U
-
-#EXTINF:-1 tvg-id="ثمانية 1 HD" tvg-name="ثمانية 1 (HD)" tvg-logo="https://i.postimg.cc/7YprHCyx/1761852465156.jpg" group-title="ثمانية",ثمانية 1 (HD)
-https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/sv22cH11HQcYlgSyr_W1r049qnNtpn4qZoMzfqhyS6hWlLKecyQMys_vzLuL4hKG26pCzlN9EIM2SFpaDcKh9Q/transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live
-
-#EXTINF:-1 tvg-id="ثمانية 1 SD" tvg-name="ثمانية 1 (SD)" tvg-logo="https://i.postimg.cc/7YprHCyx/1761852465156.jpg" group-title="ثمانية",ثمانية 1 (SD)
-https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/sv22cH11HQcYlgSyr_W1r049qnNtpn4qZoMzfqhyS6hWlLKecyQMys_vzLuL4hKG26pCzlN9EIM2SFpaDcKh9Q/transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18zMjBwMzBfMTAiLCJIZWlnaHQiOjMyMCwiS2JwcyI6NjAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjU2OH0.es_XpNv3J12hFXU4WrCwmH28GmToYAPDPdT_EjerHCU/dynamic_highlatency.m3u8?type=live
-
-#EXTINF:-1 tvg-id="ثمانية 1 Low" tvg-name="ثمانية 1 (Low)" tvg-logo="https://i.postimg.cc/7YprHCyx/1761852465156.jpg" group-title="ثمانية",ثمانية 1 (Low)
-https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/sv22cH11HQcYlgSyr_W1r049qnNtpn4qZoMzfqhyS6hWlLKecyQMys_vzLuL4hKG26pCzlN9EIM2SFpaDcKh9Q/transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18yMjRwMzBfMTAiLCJIZWlnaHQiOjIyNCwiS2JwcyI6MzAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjQwMH0.7bJSUVkCCWY9mtayJTkJOzF7SBt0W-fOgmaXO9-OjnM/dynamic_highlatency.m3u8?type=live
-
-#EXTINF:-1 tvg-id="ثمانية 2 Multi" tvg-name="ثمانية 2 (Multi)" tvg-logo="https://i.postimg.cc/7YprHCyx/1761852465156.jpg" group-title="ثمانية",ثمانية 2 (Multi)
-https://st.remotv.xyz/tmh/2.m3u8
-
-#EXTINF:-1 tvg-id="ثمانية 3 Multi" tvg-name="ثمانية 3 (Multi)" tvg-logo="https://i.postimg.cc/7YprHCyx/1761852465156.jpg" group-title="ثمانية",ثمانية 3 (Multi)
-https://st.remotv.xyz/tmh/3.m3u8
+#EXTINF:-1 tvg-id="1437" tvg-name="Thmanyah 1 (بث رئيسي)" tvg-logo="https://akomov.com/dashboard/img/uploads/thmanyah1.png",Thmanyah 1 (بث رئيسي)
+https://zz.koooooralive.com/hls/bein9/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="1437" tvg-name="Thmanyah 1 (بث رئيسي FHD)" tvg-logo="https://akomov.com/dashboard/img/uploads/thmanyah1.png",Thmanyah 1 (بث رئيسي FHD)
+https://sosa11mo21da.360eeg.com/trending/media7_high/index.m3u8
+#EXTINF:-1 tvg-id="1437" tvg-name="Thmanyah 1 (بث رئيسي LOW)" tvg-logo="https://akomov.com/dashboard/img/uploads/thmanyah1.png",Thmanyah 1 (بث رئيسي LOW)
+https://sosa11mo21da.360eeg.com/trending/media7_low/index.m3u8
+#EXTINF:-1 tvg-id="1437" tvg-name="Thmanyah 1 (بث رئيسي SD)" tvg-logo="https://akomov.com/dashboard/img/uploads/thmanyah1.png",Thmanyah 1 (بث رئيسي SD)
+https://sosa11mo21da.360eeg.com/trending/media7_low/index.m3u8
+#EXTINF:-1 tvg-id="1437" tvg-name="Thmanyah 1 (بث رئيسي HD)" tvg-logo="https://akomov.com/dashboard/img/uploads/thmanyah1.png",Thmanyah 1 (بث رئيسي HD)
+https://sosa11mo21da.360eeg.com/trending/media7_high/index.m3u8
+#EXTINF:-1 tvg-id="1437" tvg-name="Thmanyah 1 (سيرفر احتياطي)" tvg-logo="https://akomov.com/dashboard/img/uploads/thmanyah1.png",Thmanyah 1 (سيرفر احتياطي)
+https://mo3ad.xyz/live/mo3ad721/mo3ad721/662.ts
+#EXTINF:-1 tvg-id="1437" tvg-name="Thmanyah 1 (مصدر خارجي)" tvg-logo="https://akomov.com/dashboard/img/uploads/thmanyah1.png",Thmanyah 1 (مصدر خارجي)
+https://wikinew.newkso.ru/wiki/yallalive6384/mono.m3u8
+#EXTINF:-1 tvg-id="1438" tvg-name="Thmanyah 2 (بث رئيسي)" tvg-logo="https://akomov.com/dashboard/img/uploads/thmanyah1.png",Thmanyah 2 (بث رئيسي)
+https://akomov.com/ako_admin/cod/find/yalla-shoot-find.php?id=8&serv=1
+#EXTINF:-1 tvg-id="1438" tvg-name="Thmanyah 2 (بث رئيسي 2)" tvg-logo="https://akomov.com/dashboard/img/uploads/thmanyah1.png",Thmanyah 2 (بث رئيسي 2)
+https://akomov.com/ako_admin/cod/find/yalla-shoot-find.php?id=8&serv=2
+#EXTINF:-1 tvg-id="1438" tvg-name="Thmanyah 2 (جودة 360P)" tvg-logo="https://akomov.com/dashboard/img/uploads/thmanyah1.png",Thmanyah 2 (جودة 360P)
+https://sosa11mo29da7v.360eeg.com/trending/media7m/index.m3u8
+#EXTINF:-1 tvg-id="1438" tvg-name="Thmanyah 2 (جودة 720P)" tvg-logo="https://akomov.com/dashboard/img/uploads/thmanyah1.png",Thmanyah 2 (جودة 720P)
+https://sosa11mo29da7v.360eeg.com/trending/media7h/index.m3u8
+#EXTINF:-1 tvg-id="1438" tvg-name="Thmanyah 2 (جودة عالية )" tvg-logo="https://akomov.com/dashboard/img/uploads/thmanyah1.png",Thmanyah 2 (جودة عالية )
+https://mo3ad.xyz/live/mo3ad721/mo3ad721/663.ts
+#EXTINF:-1 tvg-id="1442" tvg-name="Thmanyah 3 (جودة عالية )" tvg-logo="https://akomov.com/dashboard/img/uploads/thmanyah1.png",Thmanyah 3 (جودة عالية )
+https://mo3ad.xyz/live/mo3ad721/mo3ad721/664.ts
+#EXTINF:-1 tvg-id="1442" tvg-name="Thmanyah 3 (مصدر رسمي متعدد وقت المباريات )" tvg-logo="https://akomov.com/dashboard/img/uploads/thmanyah1.png",Thmanyah 3 (مصدر رسمي متعدد وقت المباريات )
+https://alibaba.servers8.com/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJTTkFudm84Zlk5YmU0WWNLWXVEZVRtVG9TazEyIiwiaXAiOiIxMy4yMjMuOTIuMTc4IiwiaXBfdjQiOiIxMy4yMjMuOTIuMTc4IiwiaXBfdjYiOm51bGwsInVzZXJBZ2VudCI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xNDAuMC4wLjAgU2FmYXJpLzUzNy4zNiIsImNoYW5uZWxOYW1lIjoiY2gwMyIsIm5iZiI6MTc1NzY5MTM3NywiZXhwIjoxNzU3Njk0OTc3LCJpYXQiOjE3NTc2OTEzNzd9.nQcUgcG0Yv-97EH38S50C0_1JC_4e80n5Xo1NheRfAk/live/ch03/index.m3u8
