@@ -1,0 +1,82 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="http://135.125.109.73:9000/beinsport1.jpg",beinsport1
+http://135.125.109.73:9000/beinsport1_.m3u8
+
+#EXTINF:-1 tvg-logo="http://135.125.109.73:9000/beinsport2.jpg",beinsport2
+http://135.125.109.73:9000/beinsport2_.m3u8
+
+#EXTINF:-1 tvg-logo="http://135.125.109.73:9000/beinsport3.jpg",beinsport3
+http://135.125.109.73:9000/beinsport3_.m3u8
+
+#EXTINF:-1 tvg-logo="http://135.125.109.73:9000/beinsport4.jpg",beinsport4
+http://135.125.109.73:9000/beinsport4_.m3u8
+
+#EXTINF:-1 tvg-logo="http://135.125.109.73:9000/beinsport5.jpg",beinsport5
+http://135.125.109.73:9000/beinsport5_.m3u8
+
+#EXTINF:-1 tvg-logo="http://135.125.109.73:9000/beinsport6.jpg",beinsport6
+http://135.125.109.73:9000/beinsport6_.m3u8
+
+#EXTINF:-1 tvg-logo="http://135.125.109.73:9000/beinsport7.jpg",beinsport7
+http://135.125.109.73:9000/beinsport7_.m3u8
+
+#EXTINF:-1 tvg-logo="http://135.125.109.73:9000/beinsport8.jpg",beinsport8
+http://135.125.109.73:9000/beinsport8_.m3u8
+
+#EXTINF:-1 tvg-logo="http://135.125.109.73:9000/beinsport9.jpg",beinsport9
+http://135.125.109.73:9000/beinsport9_.m3u8
+
+#EXTINF:-1 tvg-logo="http://135.125.109.73:9000/beinsport10.jpg",beinsport10
+http://135.125.109.73:9000/beinsport10_.m3u8
+
+#EXTINF:-1 tvg-logo="http://135.125.109.73:9000/beinsporten1.jpg",beinsporten1
+http://135.125.109.73:9000/beinsporten1_.m3u8
+
+#EXTINF:-1 tvg-logo="http://135.125.109.73:9000/beinsporten2.jpg",beinsporten2
+http://135.125.109.73:9000/beinsporten2_.m3u8
+
+#EXTINF:-1 tvg-logo="http://135.125.109.73:9000/beinsportglobal.jpg",beinsportglobal
+http://135.125.109.73:9000/beinsportglobal_.m3u8
+
+#EXTINF:-1 tvg-logo="http://135.125.109.73:9000/beinsportnew.jpg",beinsportnew
+http://135.125.109.73:9000/beinsportnew_.m3u8
+
+#EXTINF:-1 tvg-logo="http://135.125.109.73:9000/beinsportxtra1.jpg",beinsportxtra1
+http://135.125.109.73:9000/beinsportxtra1_.m3u8
+
+#EXTINF:-1 tvg-logo="http://135.125.109.73:9000/supersport1.jpg",supersport1
+http://135.125.109.73:9000/supersport1_.m3u8
+
+#EXTINF:-1 tvg-logo="http://135.125.109.73:9000/supersport2.jpg",supersport2
+http://135.125.109.73:9000/supersport2_.m3u8
+
+#EXTINF:-1 tvg-logo="http://135.125.109.73:9000/supersport3.jpg",supersport3
+http://135.125.109.73:9000/supersport3_.m3u8
+
+#EXTINF:-1 tvg-logo="http://135.125.109.73:9000/supersport4.jpg",supersport4
+http://135.125.109.73:9000/supersport4_.m3u8
+
+#EXTINF:-1 tvg-logo="http://135.125.109.73:9000/supersport5.jpg",supersport5
+http://135.125.109.73:9000/supersport5_.m3u8
+
+#EXTINF:-1 tvg-logo="http://135.125.109.73:9000/supersport6.jpg",supersport6
+http://135.125.109.73:9000/supersport6_.m3u8
+
+#EXTINF:-1 tvg-logo="http://135.125.109.73:9000/supersport7.jpg",supersport7
+http://135.125.109.73:9000/supersport7_.m3u8
+
+#EXTINF:-1 tvg-logo="http://135.125.109.73:9000/supersport8.jpg",supersport8
+http://135.125.109.73:9000/supersport8_.m3u8
+
+#EXTINF:-1 tvg-logo="http://135.125.109.73:9000/supersport9.jpg",supersport9
+http://135.125.109.73:9000/supersport9_.m3u8
+
+#EXTINF:-1 tvg-logo="http://135.125.109.73:9000/supersport10.jpg",supersport10
+http://135.125.109.73:9000/supersport10_.m3u8
+
+#EXTINF:-1 tvg-logo="http://135.125.109.73:9000/supersport11.jpg",supersport11
+http://135.125.109.73:9000/supersport11_.m3u8
+
+#EXTINF:-1 tvg-logo="http://135.125.109.73:9000/supersport12.jpg",supersport12
+http://135.125.109.73:9000/supersport12_.m3u8
